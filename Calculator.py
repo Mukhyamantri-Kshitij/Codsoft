@@ -13,7 +13,6 @@ def divide(x, y):
     else:
         return "Error: Cannot divide by zero"
 
-# Get user input
 try:
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
